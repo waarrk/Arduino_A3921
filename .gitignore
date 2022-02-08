@@ -1,0 +1,5 @@
+#macのDS_Storeの追跡除外
+.DS_Store
+
+#VSCode設定ファイルの追跡除外
+.vscode/
